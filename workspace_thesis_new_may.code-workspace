@@ -1,0 +1,28 @@
+{
+	"folders": [
+		{
+			"path": "node-relay-lamp-light-livingroom-2"
+		},
+		{
+			"name": "node-dht-livingroom-3",
+			"path": "node-dht-livingroom-3"
+		},
+		{
+			"name": "node-relay-lamp-kitchen-4",
+			"path": "node-relay-lamp-kitchen-4"
+		},
+		{
+			"name": "node-relay-lamp-bedroom1-5",
+			"path": "node-relay-lamp-bedroom1-5"
+		},
+		{
+			"name": "node-relay-lamp-bedroom2-6",
+			"path": "node-relay-lamp-bedroom2-6"
+		},
+		{
+			"name": "node-root-1",
+			"path": "node-root-1"
+		}
+	],
+	"settings": {}
+}

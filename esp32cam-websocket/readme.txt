@@ -1,0 +1,1 @@
+code node esp32cam giao tiếp với server nodejs trên aws bằng websocket để stream data video lên server

@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "node-test-root"
+		},
+		{
+			"name": "node-test-leaf - hop1",
+			"path": "node-test-leaf - hop1"
+		},
+		{
+			"name": "node-test-leaf - hop2",
+			"path": "node-test-leaf - hop2"
+		},
+		{
+			"name": "node-test-leaf - hop3 (backup hop2)",
+			"path": "node-test-leaf - hop3 (backup hop2)"
+		}
+	],
+	"settings": {}
+}
